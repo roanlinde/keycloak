@@ -1,4 +1,4 @@
-name: Keycloak CI
+name: Keycloak | Veracode CI
 
 on:
   push:
